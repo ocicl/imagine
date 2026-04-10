@@ -4,6 +4,6 @@ A general image decoding and manipulation library
 
 |---------+------------------------------------------------|
 | source  | git:https://codeberg.org/shirakumo/imagine.git |
-| commit  | 3ca7898                                        |
-| systems | imagine                                        |
+| commit  | 0000000                                        |
+| systems | imagine imagine/memory-region imagine/foreign-pointer imagine/raw |
 |---------+------------------------------------------------|
